@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.hero {
+  background-image: linear-gradient(plum, #380231);
+}
+.top-bar {
+  padding: 20px;
+}
+
+.top-bar img {
+  width: 100px;
+}
+.top-button {
+  position: absolute;
+  right: 35px;
+  top: 65px;
+}
+.top-button a {
+  margin: 0 8px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  background-color: #fff;
+  color: #333;
+  text-decoration: none !important;
+  border: 2px solid #fff;
+}
+.login-btn {
+  background: transparent !important;
+  color: #fff !important;
+  outline: none;
+}
+.top-button a:hover {
+  background-color: white;
+  color: #333 !important;
+}
+.hero h1 {
+  color: #fff;
+  font-size: 70px;
+  font-weight: bold;
+  margin-top: 12%;
+  letter-spacing: 3px;
+}
+.hero p {
+  color: #fff;
+}
+.hero .container {
+  margin-top: 13%;
+}
+.start-btn {
+  background: transparent;
+  border: 2px solid#fff;
+  color: #fff;
+  width: 140px;
+  height: 40px;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+.home-img img {
+  width: 85%;
+  min-width: 350px;
+  margin-top: 10%;
+}
+.influencers {
+  padding: 30px 0;
+  background: #efefef;
+}
+.influencers h1 {
+  margin: 60px 0;
+  color: #555;
+}
+.influencers .container {
+  margin-bottom: -200px !important;
+}
+.person-img {
+  height: 400px;
+}
+.person-img img {
+  width: 100%;
+  height: 100%;
+}
+.person-details {
+  background-color: #fff;
+  padding: 10px 0 1px;
+  margin-bottom: 15px;
+}
+.profile {
+  padding: 30px 0;
+  background-image: linear-gradient(plum, #380231);
+}
+.profile-card {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 40px 0 rgba(17, 39, 12, 0.18);
+}
+.profile-details {
+  padding: 40px;
+}
+.profile-details h2 {
+  color: #c200ff;
+  margin-bottom: 35px;
+}
+.followers span {
+  display: inline-block;
+  color: #c200ff;
+  margin: 35px 20px 35px 0;
+}
+.profile-details h5,
+p {
+  color: #555;
+}
+.btn-follow {
+  background: #c200ff;
+  border: none;
+  color: #fff;
+  width: 130px;
+  height: 40px;
+  margin-top: 25px;
+  border-radius: 50px;
+  margin-bottom: 50px;
+}
+.profile-img img {
+  width: 84%;
+  min-width: 350px;
+}
+.profile-card {
+  margin-bottom: -360px !important;
+  margin-top: 370px;
+}
+.footer {
+  background: 50px 0 20px;
+  background-image: linear-gradient(plum, #380231);
+  margin-top: 450px;
+}
+.store-item img {
+  width: 150px;
+  margin: 0 10px 50px;
+}
+
+.footer-menu a {
+  display: inline-block;
+  width: 120px;
+  color: #fff !important;
+  text-decoration: none !important;
+  margin-bottom: 20px;
+}
+.footer p {
+  color: #fff;
+  font-size: 14px;
+  margin-top: 20px;
+}
